@@ -24,5 +24,7 @@
 
 <h3>Certifications </h3>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58659370" alt="Google Associate Cloud Engineer"/>
+ 
+[![TathagataChakraborty's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CRAZy-Monk3Y&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/CRAZy-Monk3Y/)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CRAZy-Monk3Y&count_private=true&theme=tokyonight&showicons=true)]()
