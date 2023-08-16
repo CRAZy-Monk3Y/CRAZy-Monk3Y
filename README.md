@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tathagata Chakraborty</h1>
-<h3 align="center">A passionate Programmer from India 🇮🇳</h3>
 
-- 🧑‍💻 I’m a Full Stack Web Developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=2000&color=7BF72F&vCenter=true&width=460&lines=Hello%2C+I'm+Tathagata.;I'm+a+full-stack+Web+Developer.;I'm+a+tech+enthusiast.;Reach+out+to+me+with+the+given+links.)](https://github.com/CRAZy-Monk3Y)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
