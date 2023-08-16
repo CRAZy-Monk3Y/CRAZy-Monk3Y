@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tathagata Chakraborty</h1>
+# Hi, 👋 welcome to My GitHub Profile!
+<!--- [![Profile views count](https://komarev.com/ghpvc/?username=CRAZy-Monk3Y)](https://github.com/CRAZy-Monk3Y) --->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=2000&color=7BF72F&vCenter=true&width=460&lines=Hello%2C+I'm+Tathagata.;I'm+a+full-stack+Web+Developer.;I'm+a+tech+enthusiast.;Reach+out+to+me+with+the+given+links.)](https://github.com/CRAZy-Monk3Y)
 
