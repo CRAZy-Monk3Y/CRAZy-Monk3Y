@@ -2,13 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=2000&color=7BF72F&vCenter=true&width=460&lines=Hello%2C+I'm+Tathagata.;I'm+a+full-stack+Web+Developer.;I'm+a+tech+enthusiast.;Reach+out+to+me+with+the+given+links.)](https://github.com/CRAZy-Monk3Y)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tathagata-chakraborty-478416172" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tathagata-chakraborty-478416172" height="30" width="40" /></a>
-  <a href="https://tathagata-chakraborty-portfolio.netlify.app/" target="_blank"><img  align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtoiNnANiYRP1_Zd3vuiTDmmntxLTcr6NYGP4EBa3_A&s" height="30" width="40" alt="Personal Portfolio Page"/></a>
-</p>
+## ⭐ About Me
 
-<h3 align="left">Languages and Tools:</h3>
+```zsh
+> sudo dev-tathagata --show info
+```
+
+<img align="left" src="https://raw.githubusercontent.com/CRAZy-Monk3Y/CRAZy-Monk3Y/main/FormalPicKB.jpg" width="200px" height="220px"/> 
+
+```yaml
+My Profile
+-----------------------------------------------------------
+Name          : Tathagata Chakraborty.
+WhoamI        : Full Stack Developer 🧑‍💻.
+Gender        : Male.
+Location      : West Bengal, India.
+Hobbies       : Gaming, Coding , listening music 🎶.
+Languages     : Java, JavaScript, Python, NodeJS .
+Learning      : React, Spring Boot.
+Certificates  : Google Cloud Associate Cloud Engineer.
+```
+
+
+<h3 align="left">🧑‍💻 Skills</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img  align="center" src="https://user-images.githubusercontent.com/61090388/232844997-ec16433d-6075-4547-a429-3a66ad886734.png" alt="Spring Boot" width="65" height="55"/></a> 
@@ -21,9 +37,18 @@
 </a>
 </p>
 
-<h3>Certifications </h3>
+<h3>📃 Certifications </h3>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58659370" alt="Google Associate Cloud Engineer"/>
- 
+
+<h3 align="left">☎️ Get in Touch</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tathagata-chakraborty-478416172" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tathagata-chakraborty-478416172" height="30" width="40" /></a>
+  <a href="https://tathagata-chakraborty-portfolio.netlify.app/" target="_blank"><img  align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtoiNnANiYRP1_Zd3vuiTDmmntxLTcr6NYGP4EBa3_A&s" height="30" width="40" alt="Personal Portfolio Page"/></a>
+</p>
+
+<br/>
+
 [![TathagataChakraborty's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CRAZy-Monk3Y&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/CRAZy-Monk3Y/)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CRAZy-Monk3Y&count_private=true&theme=tokyonight&showicons=true)]()
