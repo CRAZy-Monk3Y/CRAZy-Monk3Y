@@ -41,6 +41,10 @@ Certificates  : Google Cloud Associate Cloud Engineer.
 <h3>📃 Certifications </h3>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58659370" alt="Google Associate Cloud Engineer"/>
 
+<h3>🎓 Participations</h3>
+
+[![An image of @crazymonk3y's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crazymonk3y)](https://holopin.io/@crazymonk3y)
+
 <h3 align="left">☎️ Get in Touch</h3>
 
 <p align="left">
