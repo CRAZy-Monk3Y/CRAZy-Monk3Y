@@ -56,4 +56,10 @@ Certificates  : Google Cloud Associate Cloud Engineer.
 
 [![TathagataChakraborty's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CRAZy-Monk3Y&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/CRAZy-Monk3Y/)
 
+<br/>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CRAZy-Monk3Y&count_private=true&theme=tokyonight&showicons=true)]()
+
+### ⌚ Profile Views
+
+<img src="https://profile-counter.glitch.me/CRAZy-Monk3Y/count.svg" alt="profile counter">
