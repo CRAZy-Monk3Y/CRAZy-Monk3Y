@@ -23,7 +23,9 @@ Languages     : JavaScript, Python, Typescript
 Certificates  : Google Cloud Associate Cloud Engineer.
 ```
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CRAZy-Monk3Y&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
 <h3 align="left">🧑‍💻 Skills</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -55,4 +57,3 @@ Certificates  : Google Cloud Associate Cloud Engineer.
 
 <br/>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=CRAZy-Monk3Y)
