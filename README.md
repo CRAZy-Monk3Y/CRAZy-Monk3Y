@@ -1,7 +1,7 @@
 # Hi, 👋 welcome to My GitHub Profile!
 <!--- [![Profile views count](https://komarev.com/ghpvc/?username=CRAZy-Monk3Y)](https://github.com/CRAZy-Monk3Y) --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=2000&color=7BF72F&vCenter=true&width=460&lines=Hello%2C+I'm+Tathagata.;I'm+a+full-stack+Web+Developer.;I'm+a+tech+enthusiast.;Reach+out+to+me+with+the+given+links.)](https://github.com/CRAZy-Monk3Y)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=2000&color=7BF72F&vCenter=true&width=460&lines=Hello%2C+I'm+Tathagata.;I'm+a+full-stack+AI+Developer.;I'm+a+tech+enthusiast.)](https://github.com/CRAZy-Monk3Y)
 
 ## ⭐ About Me
 
@@ -15,12 +15,11 @@
 My Profile
 -----------------------------------------------------------
 Name          : Tathagata Chakraborty.
-WhoamI        : Full Stack Developer 🧑‍💻.
+WhoamI        : Full Stack AI Engineer 🧑‍💻.
 Gender        : Male.
 Location      : West Bengal, India.
 Hobbies       : Gaming, Coding , listening music 🎶.
-Languages     : Java, JavaScript, Python, NodeJS .
-Learning      : React, Spring Boot.
+Languages     : JavaScript, Python, Typescript
 Certificates  : Google Cloud Associate Cloud Engineer.
 ```
 
@@ -28,18 +27,16 @@ Certificates  : Google Cloud Associate Cloud Engineer.
 <h3 align="left">🧑‍💻 Skills</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img  align="center" src="https://user-images.githubusercontent.com/61090388/232844997-ec16433d-6075-4547-a429-3a66ad886734.png" alt="Spring Boot" width="65" height="55"/></a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img  align="center" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img align="center" src="https://logodix.com/logo/1658501.png" alt="React" width="90" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://logodix.com/logo/374704.png" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img align="center" src="https://logodix.com/logo/2062767.png" alt="Postman" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="44"/> </a> 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v3f8eafc9e9ec34d001886958ac58f6b3d255ba70e9584b93488d1cf3a23653aa/cloud/images/favicons/onecloud/apple-icon.png" alt="GCP" width="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="44"/></a> 
+<a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img align="center" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" alt="langchain" width="40" height="54"/></a> 
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="GCP" width="40"/>
 </a>
 </p>
 
 <h3>📃 Certifications </h3>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58659370" alt="Google Associate Cloud Engineer"/>
+<img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="200" height="200" alt="Google Associate Cloud Engineer"/>
 
 <h3>🎓 Participations</h3>
 
@@ -58,8 +55,4 @@ Certificates  : Google Cloud Associate Cloud Engineer.
 
 <br/>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CRAZy-Monk3Y&count_private=true&theme=tokyonight&showicons=true)]()
-
-### ⌚ Profile Views
-
-<img src="https://profile-counter.glitch.me/CRAZy-Monk3Y/count.svg" alt="profile counter">
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=CRAZy-Monk3Y)
